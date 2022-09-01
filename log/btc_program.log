@@ -1,0 +1,1707 @@
+****************************************
+Execution Date: Wed 08/31/2022 
+py_script LOG ID: 20220831_50607 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+*****************************
+
+[time][updatedISO]:  2022-08-31T19:05:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	20091.2213
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16788.0638
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19571.7828
+
+ JSON Payload: {'time': {'updated': 'Aug 31, 2022 19:05:00 UTC', 'updatedISO': '2022-08-31T19:05:00+00:00', 'updateduk': 'Aug 31, 2022 at 20:05 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '20,091.2213', 'description': 'United States Dollar', 'rate_float': 20091.2213}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,788.0638', 'description': 'British Pound Sterling', 'rate_float': 16788.0638}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,571.7828', 'description': 'Euro', 'rate_float': 19571.7828}}}
+************************************************
+****************************************
+Execution Date: Wed 08/31/2022 
+py_script LOG ID: 20220831_50645 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+*****************************
+
+[time][updatedISO]:  2022-08-31T19:06:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	20084.5079
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16782.4542
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19565.2431
+
+ JSON Payload: {'time': {'updated': 'Aug 31, 2022 19:06:00 UTC', 'updatedISO': '2022-08-31T19:06:00+00:00', 'updateduk': 'Aug 31, 2022 at 20:06 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '20,084.5079', 'description': 'United States Dollar', 'rate_float': 20084.5079}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,782.4542', 'description': 'British Pound Sterling', 'rate_float': 16782.4542}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,565.2431', 'description': 'Euro', 'rate_float': 19565.2431}}}
+************************************************
+****************************************
+Execution Date: Wed 08/31/2022 
+py_script LOG ID: 20220831_53322 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-08-31T19:33:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	20163.0832
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16848.111
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19641.7868
+
+ JSON Payload: {'time': {'updated': 'Aug 31, 2022 19:33:00 UTC', 'updatedISO': '2022-08-31T19:33:00+00:00', 'updateduk': 'Aug 31, 2022 at 20:33 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '20,163.0832', 'description': 'United States Dollar', 'rate_float': 20163.0832}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,848.1110', 'description': 'British Pound Sterling', 'rate_float': 16848.111}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,641.7868', 'description': 'Euro', 'rate_float': 19641.7868}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_94458 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-08-31T19:33:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	20163.0832
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16848.111
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19641.7868
+
+ JSON Payload: {'time': {'updated': 'Aug 31, 2022 19:33:00 UTC', 'updatedISO': '2022-08-31T19:33:00+00:00', 'updateduk': 'Aug 31, 2022 at 20:33 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '20,163.0832', 'description': 'United States Dollar', 'rate_float': 20163.0832}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,848.1110', 'description': 'British Pound Sterling', 'rate_float': 16848.111}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,641.7868', 'description': 'Euro', 'rate_float': 19641.7868}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_94510 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-08-31T19:33:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	20163.0832
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16848.111
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19641.7868
+
+ JSON Payload: {'time': {'updated': 'Aug 31, 2022 19:33:00 UTC', 'updatedISO': '2022-08-31T19:33:00+00:00', 'updateduk': 'Aug 31, 2022 at 20:33 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '20,163.0832', 'description': 'United States Dollar', 'rate_float': 20163.0832}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,848.1110', 'description': 'British Pound Sterling', 'rate_float': 16848.111}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,641.7868', 'description': 'Euro', 'rate_float': 19641.7868}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_94733 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T13:47:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19967.2007
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16684.4332
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19450.9687
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 13:47:00 UTC', 'updatedISO': '2022-09-01T13:47:00+00:00', 'updateduk': 'Sep 1, 2022 at 14:47 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,967.2007', 'description': 'United States Dollar', 'rate_float': 19967.2007}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,684.4332', 'description': 'British Pound Sterling', 'rate_float': 16684.4332}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,450.9687', 'description': 'Euro', 'rate_float': 19450.9687}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_00302 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:02:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19938.1787
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16660.1826
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19422.697
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:02:00 UTC', 'updatedISO': '2022-09-01T14:02:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:02 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,938.1787', 'description': 'United States Dollar', 'rate_float': 19938.1787}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,660.1826', 'description': 'British Pound Sterling', 'rate_float': 16660.1826}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,422.6970', 'description': 'Euro', 'rate_float': 19422.697}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_00847 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:08:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19935.9857
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16658.3502
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19420.5607
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:08:00 UTC', 'updatedISO': '2022-09-01T14:08:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:08 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,935.9857', 'description': 'United States Dollar', 'rate_float': 19935.9857}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,658.3502', 'description': 'British Pound Sterling', 'rate_float': 16658.3502}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,420.5607', 'description': 'Euro', 'rate_float': 19420.5607}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_01103 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:10:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19944.4338
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16665.4094
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19428.7904
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:10:00 UTC', 'updatedISO': '2022-09-01T14:10:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:10 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,944.4338', 'description': 'United States Dollar', 'rate_float': 19944.4338}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,665.4094', 'description': 'British Pound Sterling', 'rate_float': 16665.4094}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,428.7904', 'description': 'Euro', 'rate_float': 19428.7904}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_01121 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:10:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19944.4338
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16665.4094
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19428.7904
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:10:00 UTC', 'updatedISO': '2022-09-01T14:10:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:10 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,944.4338', 'description': 'United States Dollar', 'rate_float': 19944.4338}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,665.4094', 'description': 'British Pound Sterling', 'rate_float': 16665.4094}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,428.7904', 'description': 'Euro', 'rate_float': 19428.7904}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_01127 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:11:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19924.5135
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16648.7641
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19409.3851
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:11:00 UTC', 'updatedISO': '2022-09-01T14:11:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:11 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,924.5135', 'description': 'United States Dollar', 'rate_float': 19924.5135}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,648.7641', 'description': 'British Pound Sterling', 'rate_float': 16648.7641}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,409.3851', 'description': 'Euro', 'rate_float': 19409.3851}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_01828 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:18:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19881.2067
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16612.5773
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19367.198
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:18:00 UTC', 'updatedISO': '2022-09-01T14:18:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:18 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,881.2067', 'description': 'United States Dollar', 'rate_float': 19881.2067}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,612.5773', 'description': 'British Pound Sterling', 'rate_float': 16612.5773}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,367.1980', 'description': 'Euro', 'rate_float': 19367.198}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_03656 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:36:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19941.2542
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16662.7525
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19425.693
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:36:00 UTC', 'updatedISO': '2022-09-01T14:36:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:36 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,941.2542', 'description': 'United States Dollar', 'rate_float': 19941.2542}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,662.7525', 'description': 'British Pound Sterling', 'rate_float': 16662.7525}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,425.6930', 'description': 'Euro', 'rate_float': 19425.693}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04148 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:41:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19934.0275
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16656.7139
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19418.6532
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:41:00 UTC', 'updatedISO': '2022-09-01T14:41:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:41 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,934.0275', 'description': 'United States Dollar', 'rate_float': 19934.0275}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,656.7139', 'description': 'British Pound Sterling', 'rate_float': 16656.7139}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,418.6532', 'description': 'Euro', 'rate_float': 19418.6532}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04402 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:43:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19925.0516
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16649.2137
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19409.9093
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:43:00 UTC', 'updatedISO': '2022-09-01T14:43:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:43 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,925.0516', 'description': 'United States Dollar', 'rate_float': 19925.0516}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,649.2137', 'description': 'British Pound Sterling', 'rate_float': 16649.2137}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,409.9093', 'description': 'Euro', 'rate_float': 19409.9093}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04414 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:43:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19925.0516
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16649.2137
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19409.9093
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:43:00 UTC', 'updatedISO': '2022-09-01T14:43:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:43 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,925.0516', 'description': 'United States Dollar', 'rate_float': 19925.0516}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,649.2137', 'description': 'British Pound Sterling', 'rate_float': 16649.2137}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,409.9093', 'description': 'Euro', 'rate_float': 19409.9093}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04423 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:43:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19925.0516
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16649.2137
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19409.9093
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:43:00 UTC', 'updatedISO': '2022-09-01T14:43:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:43 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,925.0516', 'description': 'United States Dollar', 'rate_float': 19925.0516}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,649.2137', 'description': 'British Pound Sterling', 'rate_float': 16649.2137}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,409.9093', 'description': 'Euro', 'rate_float': 19409.9093}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04433 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:44:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19903.2573
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16631.0026
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19388.6785
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:44:00 UTC', 'updatedISO': '2022-09-01T14:44:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:44 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,903.2573', 'description': 'United States Dollar', 'rate_float': 19903.2573}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,631.0026', 'description': 'British Pound Sterling', 'rate_float': 16631.0026}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,388.6785', 'description': 'Euro', 'rate_float': 19388.6785}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04501 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:44:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19903.2573
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16631.0026
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19388.6785
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:44:00 UTC', 'updatedISO': '2022-09-01T14:44:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:44 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,903.2573', 'description': 'United States Dollar', 'rate_float': 19903.2573}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,631.0026', 'description': 'British Pound Sterling', 'rate_float': 16631.0026}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,388.6785', 'description': 'Euro', 'rate_float': 19388.6785}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04509 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:44:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19903.2573
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16631.0026
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19388.6785
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:44:00 UTC', 'updatedISO': '2022-09-01T14:44:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:44 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,903.2573', 'description': 'United States Dollar', 'rate_float': 19903.2573}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,631.0026', 'description': 'British Pound Sterling', 'rate_float': 16631.0026}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,388.6785', 'description': 'Euro', 'rate_float': 19388.6785}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_04821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:48:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19820.9188
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16562.2012
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19308.4688
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:48:00 UTC', 'updatedISO': '2022-09-01T14:48:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:48 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,820.9188', 'description': 'United States Dollar', 'rate_float': 19820.9188}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,562.2012', 'description': 'British Pound Sterling', 'rate_float': 16562.2012}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,308.4688', 'description': 'Euro', 'rate_float': 19308.4688}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_05136 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:51:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19767.7675
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16517.7884
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19256.6917
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:51:00 UTC', 'updatedISO': '2022-09-01T14:51:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:51 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,767.7675', 'description': 'United States Dollar', 'rate_float': 19767.7675}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,517.7884', 'description': 'British Pound Sterling', 'rate_float': 16517.7884}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,256.6917', 'description': 'Euro', 'rate_float': 19256.6917}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_05321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:53:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19771.9195
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16521.2578
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19260.7363
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:53:00 UTC', 'updatedISO': '2022-09-01T14:53:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:53 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,771.9195', 'description': 'United States Dollar', 'rate_float': 19771.9195}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,521.2578', 'description': 'British Pound Sterling', 'rate_float': 16521.2578}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,260.7363', 'description': 'Euro', 'rate_float': 19260.7363}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_05821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T14:57:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19705.4689
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16465.7322
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19196.0037
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 14:57:00 UTC', 'updatedISO': '2022-09-01T14:57:00+00:00', 'updateduk': 'Sep 1, 2022 at 15:57 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,705.4689', 'description': 'United States Dollar', 'rate_float': 19705.4689}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,465.7322', 'description': 'British Pound Sterling', 'rate_float': 16465.7322}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,196.0037', 'description': 'Euro', 'rate_float': 19196.0037}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_10321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:02:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19702.49
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16463.243
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19193.1019
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:02:00 UTC', 'updatedISO': '2022-09-01T15:02:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:02 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,702.4900', 'description': 'United States Dollar', 'rate_float': 19702.49}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,463.2430', 'description': 'British Pound Sterling', 'rate_float': 16463.243}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,193.1019', 'description': 'Euro', 'rate_float': 19193.1019}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_10821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:08:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19777.4747
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16525.8997
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19266.1479
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:08:00 UTC', 'updatedISO': '2022-09-01T15:08:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:08 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,777.4747', 'description': 'United States Dollar', 'rate_float': 19777.4747}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,525.8997', 'description': 'British Pound Sterling', 'rate_float': 16525.8997}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,266.1479', 'description': 'Euro', 'rate_float': 19266.1479}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_11321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:13:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19761.0468
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16512.1726
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19250.1447
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:13:00 UTC', 'updatedISO': '2022-09-01T15:13:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:13 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,761.0468', 'description': 'United States Dollar', 'rate_float': 19761.0468}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,512.1726', 'description': 'British Pound Sterling', 'rate_float': 16512.1726}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,250.1447', 'description': 'Euro', 'rate_float': 19250.1447}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_11821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:17:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19755.4652
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16507.5086
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19244.7074
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:17:00 UTC', 'updatedISO': '2022-09-01T15:17:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:17 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,755.4652', 'description': 'United States Dollar', 'rate_float': 19755.4652}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,507.5086', 'description': 'British Pound Sterling', 'rate_float': 16507.5086}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,244.7074', 'description': 'Euro', 'rate_float': 19244.7074}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_12321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:22:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19748.0708
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16501.3299
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19237.5041
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:22:00 UTC', 'updatedISO': '2022-09-01T15:22:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:22 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,748.0708', 'description': 'United States Dollar', 'rate_float': 19748.0708}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,501.3299', 'description': 'British Pound Sterling', 'rate_float': 16501.3299}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,237.5041', 'description': 'Euro', 'rate_float': 19237.5041}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_12821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:27:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19782.2167
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16529.862
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19270.7673
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:27:00 UTC', 'updatedISO': '2022-09-01T15:27:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:27 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,782.2167', 'description': 'United States Dollar', 'rate_float': 19782.2167}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,529.8620', 'description': 'British Pound Sterling', 'rate_float': 16529.862}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,270.7673', 'description': 'Euro', 'rate_float': 19270.7673}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_13321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:32:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19797.9732
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16543.028
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19286.1164
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:32:00 UTC', 'updatedISO': '2022-09-01T15:32:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:32 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,797.9732', 'description': 'United States Dollar', 'rate_float': 19797.9732}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,543.0280', 'description': 'British Pound Sterling', 'rate_float': 16543.028}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,286.1164', 'description': 'Euro', 'rate_float': 19286.1164}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_13821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:37:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19797.1967
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16542.3792
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19285.36
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:37:00 UTC', 'updatedISO': '2022-09-01T15:37:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:37 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,797.1967', 'description': 'United States Dollar', 'rate_float': 19797.1967}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,542.3792', 'description': 'British Pound Sterling', 'rate_float': 16542.3792}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,285.3600', 'description': 'Euro', 'rate_float': 19285.36}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_14321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:42:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19778.2993
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16526.5887
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19266.9512
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:42:00 UTC', 'updatedISO': '2022-09-01T15:42:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:42 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,778.2993', 'description': 'United States Dollar', 'rate_float': 19778.2993}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,526.5887', 'description': 'British Pound Sterling', 'rate_float': 16526.5887}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,266.9512', 'description': 'Euro', 'rate_float': 19266.9512}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_14821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:47:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19801.5829
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16546.0442
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19289.6327
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:47:00 UTC', 'updatedISO': '2022-09-01T15:47:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:47 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,801.5829', 'description': 'United States Dollar', 'rate_float': 19801.5829}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,546.0442', 'description': 'British Pound Sterling', 'rate_float': 16546.0442}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,289.6327', 'description': 'Euro', 'rate_float': 19289.6327}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_15321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:52:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19792.9364
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16538.8193
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19281.2098
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:52:00 UTC', 'updatedISO': '2022-09-01T15:52:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:52 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,792.9364', 'description': 'United States Dollar', 'rate_float': 19792.9364}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,538.8193', 'description': 'British Pound Sterling', 'rate_float': 16538.8193}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,281.2098', 'description': 'Euro', 'rate_float': 19281.2098}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_15821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T15:58:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19748.8604
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16501.9898
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19238.2734
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 15:58:00 UTC', 'updatedISO': '2022-09-01T15:58:00+00:00', 'updateduk': 'Sep 1, 2022 at 16:58 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,748.8604', 'description': 'United States Dollar', 'rate_float': 19748.8604}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,501.9898', 'description': 'British Pound Sterling', 'rate_float': 16501.9898}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,238.2734', 'description': 'Euro', 'rate_float': 19238.2734}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_20321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:02:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19769.6457
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16519.3578
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19258.5213
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:02:00 UTC', 'updatedISO': '2022-09-01T16:02:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:02 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,769.6457', 'description': 'United States Dollar', 'rate_float': 19769.6457}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,519.3578', 'description': 'British Pound Sterling', 'rate_float': 16519.3578}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,258.5213', 'description': 'Euro', 'rate_float': 19258.5213}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_20821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:08:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19785.5963
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16532.6859
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19274.0594
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:08:00 UTC', 'updatedISO': '2022-09-01T16:08:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:08 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,785.5963', 'description': 'United States Dollar', 'rate_float': 19785.5963}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,532.6859', 'description': 'British Pound Sterling', 'rate_float': 16532.6859}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,274.0594', 'description': 'Euro', 'rate_float': 19274.0594}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_21321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:12:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19763.3018
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16514.0568
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19252.3413
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:12:00 UTC', 'updatedISO': '2022-09-01T16:12:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:12 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,763.3018', 'description': 'United States Dollar', 'rate_float': 19763.3018}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,514.0568', 'description': 'British Pound Sterling', 'rate_float': 16514.0568}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,252.3413', 'description': 'Euro', 'rate_float': 19252.3413}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_21821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:18:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19797.2398
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16542.4152
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19285.402
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:18:00 UTC', 'updatedISO': '2022-09-01T16:18:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:18 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,797.2398', 'description': 'United States Dollar', 'rate_float': 19797.2398}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,542.4152', 'description': 'British Pound Sterling', 'rate_float': 16542.4152}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,285.4020', 'description': 'Euro', 'rate_float': 19285.402}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_22321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:23:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19749.0418
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16502.1413
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19238.4501
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:23:00 UTC', 'updatedISO': '2022-09-01T16:23:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:23 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,749.0418', 'description': 'United States Dollar', 'rate_float': 19749.0418}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,502.1413', 'description': 'British Pound Sterling', 'rate_float': 16502.1413}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,238.4501', 'description': 'Euro', 'rate_float': 19238.4501}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_22821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:28:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19726.6685
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16483.4464
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19216.6552
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:28:00 UTC', 'updatedISO': '2022-09-01T16:28:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:28 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,726.6685', 'description': 'United States Dollar', 'rate_float': 19726.6685}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,483.4464', 'description': 'British Pound Sterling', 'rate_float': 16483.4464}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,216.6552', 'description': 'Euro', 'rate_float': 19216.6552}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_23321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:33:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19684.978
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16448.6101
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19176.0426
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:33:00 UTC', 'updatedISO': '2022-09-01T16:33:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:33 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,684.9780', 'description': 'United States Dollar', 'rate_float': 19684.978}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,448.6101', 'description': 'British Pound Sterling', 'rate_float': 16448.6101}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,176.0426', 'description': 'Euro', 'rate_float': 19176.0426}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_23821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:38:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19646.9751
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16416.8552
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19139.0222
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:38:00 UTC', 'updatedISO': '2022-09-01T16:38:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:38 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,646.9751', 'description': 'United States Dollar', 'rate_float': 19646.9751}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,416.8552', 'description': 'British Pound Sterling', 'rate_float': 16416.8552}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,139.0222', 'description': 'Euro', 'rate_float': 19139.0222}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_24321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:43:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19654.149
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16422.8497
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19146.0106
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:43:00 UTC', 'updatedISO': '2022-09-01T16:43:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:43 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,654.1490', 'description': 'United States Dollar', 'rate_float': 19654.149}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,422.8497', 'description': 'British Pound Sterling', 'rate_float': 16422.8497}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,146.0106', 'description': 'Euro', 'rate_float': 19146.0106}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_24821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:48:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19624.4553
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16398.0379
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19117.0847
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:48:00 UTC', 'updatedISO': '2022-09-01T16:48:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:48 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,624.4553', 'description': 'United States Dollar', 'rate_float': 19624.4553}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,398.0379', 'description': 'British Pound Sterling', 'rate_float': 16398.0379}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,117.0847', 'description': 'Euro', 'rate_float': 19117.0847}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_25321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:53:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19616.9399
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16391.758
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19109.7635
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:53:00 UTC', 'updatedISO': '2022-09-01T16:53:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:53 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,616.9399', 'description': 'United States Dollar', 'rate_float': 19616.9399}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,391.7580', 'description': 'British Pound Sterling', 'rate_float': 16391.758}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,109.7635', 'description': 'Euro', 'rate_float': 19109.7635}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_25821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T16:57:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19636.4275
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16408.0417
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19128.7473
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 16:57:00 UTC', 'updatedISO': '2022-09-01T16:57:00+00:00', 'updateduk': 'Sep 1, 2022 at 17:57 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,636.4275', 'description': 'United States Dollar', 'rate_float': 19636.4275}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,408.0417', 'description': 'British Pound Sterling', 'rate_float': 16408.0417}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,128.7473', 'description': 'Euro', 'rate_float': 19128.7473}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_30325 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:03:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19693.2704
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16455.5392
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19184.1206
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:03:00 UTC', 'updatedISO': '2022-09-01T17:03:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:03 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,693.2704', 'description': 'United States Dollar', 'rate_float': 19693.2704}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,455.5392', 'description': 'British Pound Sterling', 'rate_float': 16455.5392}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,184.1206', 'description': 'Euro', 'rate_float': 19184.1206}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_30821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:08:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19683.7127
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16447.5528
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19174.8099
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:08:00 UTC', 'updatedISO': '2022-09-01T17:08:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:08 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,683.7127', 'description': 'United States Dollar', 'rate_float': 19683.7127}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,447.5528', 'description': 'British Pound Sterling', 'rate_float': 16447.5528}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,174.8099', 'description': 'Euro', 'rate_float': 19174.8099}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_31321 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:13:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19711.54
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16470.8051
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19201.9178
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:13:00 UTC', 'updatedISO': '2022-09-01T17:13:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:13 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,711.5400', 'description': 'United States Dollar', 'rate_float': 19711.54}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,470.8051', 'description': 'British Pound Sterling', 'rate_float': 16470.8051}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,201.9178', 'description': 'Euro', 'rate_float': 19201.9178}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_31821 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:18:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19747.9107
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16501.1962
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19237.3482
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:18:00 UTC', 'updatedISO': '2022-09-01T17:18:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:18 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,747.9107', 'description': 'United States Dollar', 'rate_float': 19747.9107}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,501.1962', 'description': 'British Pound Sterling', 'rate_float': 16501.1962}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,237.3482', 'description': 'Euro', 'rate_float': 19237.3482}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_32320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:23:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19786.5827
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16533.5102
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19275.0204
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:23:00 UTC', 'updatedISO': '2022-09-01T17:23:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:23 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,786.5827', 'description': 'United States Dollar', 'rate_float': 19786.5827}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,533.5102', 'description': 'British Pound Sterling', 'rate_float': 16533.5102}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,275.0204', 'description': 'Euro', 'rate_float': 19275.0204}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_32820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:28:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19897.4849
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16626.1792
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19383.0554
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:28:00 UTC', 'updatedISO': '2022-09-01T17:28:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:28 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,897.4849', 'description': 'United States Dollar', 'rate_float': 19897.4849}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,626.1792', 'description': 'British Pound Sterling', 'rate_float': 16626.1792}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,383.0554', 'description': 'Euro', 'rate_float': 19383.0554}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_33320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:32:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19914.4038
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16640.3165
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19399.5368
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:32:00 UTC', 'updatedISO': '2022-09-01T17:32:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:32 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,914.4038', 'description': 'United States Dollar', 'rate_float': 19914.4038}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,640.3165', 'description': 'British Pound Sterling', 'rate_float': 16640.3165}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,399.5368', 'description': 'Euro', 'rate_float': 19399.5368}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_33820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T17:38:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19816.4483
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16558.4656
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19304.1138
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 17:38:00 UTC', 'updatedISO': '2022-09-01T17:38:00+00:00', 'updateduk': 'Sep 1, 2022 at 18:38 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,816.4483', 'description': 'United States Dollar', 'rate_float': 19816.4483}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,558.4656', 'description': 'British Pound Sterling', 'rate_float': 16558.4656}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,304.1138', 'description': 'Euro', 'rate_float': 19304.1138}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_41459 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:14:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19758.8989
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16510.3778
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19248.0523
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:14:00 UTC', 'updatedISO': '2022-09-01T18:14:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:14 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,758.8989', 'description': 'United States Dollar', 'rate_float': 19758.8989}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,510.3778', 'description': 'British Pound Sterling', 'rate_float': 16510.3778}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,248.0523', 'description': 'Euro', 'rate_float': 19248.0523}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_41820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:17:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19778.017
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16526.3528
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19266.6762
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:17:00 UTC', 'updatedISO': '2022-09-01T18:17:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:17 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,778.0170', 'description': 'United States Dollar', 'rate_float': 19778.017}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,526.3528', 'description': 'British Pound Sterling', 'rate_float': 16526.3528}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,266.6762', 'description': 'Euro', 'rate_float': 19266.6762}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_42320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:22:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19827.4724
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16567.6773
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19314.853
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:22:00 UTC', 'updatedISO': '2022-09-01T18:22:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:22 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,827.4724', 'description': 'United States Dollar', 'rate_float': 19827.4724}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,567.6773', 'description': 'British Pound Sterling', 'rate_float': 16567.6773}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,314.8530', 'description': 'Euro', 'rate_float': 19314.853}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_42820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:22:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19827.4724
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16567.6773
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19314.853
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:22:00 UTC', 'updatedISO': '2022-09-01T18:22:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:22 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,827.4724', 'description': 'United States Dollar', 'rate_float': 19827.4724}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,567.6773', 'description': 'British Pound Sterling', 'rate_float': 16567.6773}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,314.8530', 'description': 'Euro', 'rate_float': 19314.853}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_43320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:32:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19889.6348
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16619.6197
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19375.4082
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:32:00 UTC', 'updatedISO': '2022-09-01T18:32:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:32 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,889.6348', 'description': 'United States Dollar', 'rate_float': 19889.6348}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,619.6197', 'description': 'British Pound Sterling', 'rate_float': 16619.6197}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,375.4082', 'description': 'Euro', 'rate_float': 19375.4082}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_43820 
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_44320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:43:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19862.2844
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16596.7659
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19348.7649
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:43:00 UTC', 'updatedISO': '2022-09-01T18:43:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:43 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,862.2844', 'description': 'United States Dollar', 'rate_float': 19862.2844}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,596.7659', 'description': 'British Pound Sterling', 'rate_float': 16596.7659}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,348.7649', 'description': 'Euro', 'rate_float': 19348.7649}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_44820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:47:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19833.8756
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16573.0277
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19321.0905
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:47:00 UTC', 'updatedISO': '2022-09-01T18:47:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:47 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,833.8756', 'description': 'United States Dollar', 'rate_float': 19833.8756}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,573.0277', 'description': 'British Pound Sterling', 'rate_float': 16573.0277}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,321.0905', 'description': 'Euro', 'rate_float': 19321.0905}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_45320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:52:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19823.8245
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16564.6292
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19311.2993
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:52:00 UTC', 'updatedISO': '2022-09-01T18:52:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:52 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,823.8245', 'description': 'United States Dollar', 'rate_float': 19823.8245}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,564.6292', 'description': 'British Pound Sterling', 'rate_float': 16564.6292}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,311.2993', 'description': 'Euro', 'rate_float': 19311.2993}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_45820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T18:57:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19807.7147
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16551.1679
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19295.606
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 18:57:00 UTC', 'updatedISO': '2022-09-01T18:57:00+00:00', 'updateduk': 'Sep 1, 2022 at 19:57 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,807.7147', 'description': 'United States Dollar', 'rate_float': 19807.7147}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,551.1679', 'description': 'British Pound Sterling', 'rate_float': 16551.1679}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,295.6060', 'description': 'Euro', 'rate_float': 19295.606}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_50320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T19:02:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19815.3426
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16557.5417
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19303.0367
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 19:02:00 UTC', 'updatedISO': '2022-09-01T19:02:00+00:00', 'updateduk': 'Sep 1, 2022 at 20:02 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,815.3426', 'description': 'United States Dollar', 'rate_float': 19815.3426}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,557.5417', 'description': 'British Pound Sterling', 'rate_float': 16557.5417}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,303.0367', 'description': 'Euro', 'rate_float': 19303.0367}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_50820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T19:07:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19831.2893
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16570.8666
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19318.5711
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 19:07:00 UTC', 'updatedISO': '2022-09-01T19:07:00+00:00', 'updateduk': 'Sep 1, 2022 at 20:07 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,831.2893', 'description': 'United States Dollar', 'rate_float': 19831.2893}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,570.8666', 'description': 'British Pound Sterling', 'rate_float': 16570.8666}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,318.5711', 'description': 'Euro', 'rate_float': 19318.5711}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_51320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T19:13:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19891.6083
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16621.2688
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19377.3307
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 19:13:00 UTC', 'updatedISO': '2022-09-01T19:13:00+00:00', 'updateduk': 'Sep 1, 2022 at 20:13 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,891.6083', 'description': 'United States Dollar', 'rate_float': 19891.6083}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,621.2688', 'description': 'British Pound Sterling', 'rate_float': 16621.2688}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,377.3307', 'description': 'Euro', 'rate_float': 19377.3307}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_51820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T19:18:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19828.1003
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16568.202
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19315.4646
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 19:18:00 UTC', 'updatedISO': '2022-09-01T19:18:00+00:00', 'updateduk': 'Sep 1, 2022 at 20:18 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,828.1003', 'description': 'United States Dollar', 'rate_float': 19828.1003}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,568.2020', 'description': 'British Pound Sterling', 'rate_float': 16568.202}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,315.4646', 'description': 'Euro', 'rate_float': 19315.4646}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_52320 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T19:22:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19826.0045
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16566.4508
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19313.423
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 19:22:00 UTC', 'updatedISO': '2022-09-01T19:22:00+00:00', 'updateduk': 'Sep 1, 2022 at 20:22 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,826.0045', 'description': 'United States Dollar', 'rate_float': 19826.0045}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,566.4508', 'description': 'British Pound Sterling', 'rate_float': 16566.4508}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,313.4230', 'description': 'Euro', 'rate_float': 19313.423}}}
+************************************************
+****************************************
+Execution Date: Thu 09/01/2022 
+py_script LOG ID: 20220901_52820 
+Command:  curl -# -o "coindesk_payload.json" https://api.coindesk.com/v1/bpi/currentprice.json
+
+Data Table:  btc_rates.tsv
+************************************************
+
+[time][updatedISO]:  2022-09-01T19:28:00+00:00
+[bpi][USD] 
+[description]:	United States Dollar
+[code]:	USD
+[rate_float]:	19812.4756
+[bpi][GBP] 
+[description]:	British Pound Sterling
+[code]:	GBP
+[rate_float]:	16555.1461
+[bpi][EUR] 
+[description]:	Euro
+[code]:	EUR
+[rate_float]:	19300.2438
+
+ JSON Payload: {'time': {'updated': 'Sep 1, 2022 19:28:00 UTC', 'updatedISO': '2022-09-01T19:28:00+00:00', 'updateduk': 'Sep 1, 2022 at 20:28 BST'}, 'disclaimer': 'This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org', 'chartName': 'Bitcoin', 'bpi': {'USD': {'code': 'USD', 'symbol': '&#36;', 'rate': '19,812.4756', 'description': 'United States Dollar', 'rate_float': 19812.4756}, 'GBP': {'code': 'GBP', 'symbol': '&pound;', 'rate': '16,555.1461', 'description': 'British Pound Sterling', 'rate_float': 16555.1461}, 'EUR': {'code': 'EUR', 'symbol': '&euro;', 'rate': '19,300.2438', 'description': 'Euro', 'rate_float': 19300.2438}}}
+************************************************
